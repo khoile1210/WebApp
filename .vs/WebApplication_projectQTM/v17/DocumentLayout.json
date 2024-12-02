@@ -1,0 +1,298 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\VS_CODE\\OPP-BT\\BT1\\WebApplication_projectQTM\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2827232D-2274-4390-BF5A-9623799A0F2E}|WebApplication_projectQTM\\WebApplication_projectQTM.csproj|d:\\vs_code\\opp-bt\\bt1\\webapplication_projectqtm\\webapplication_projectqtm\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2827232D-2274-4390-BF5A-9623799A0F2E}|WebApplication_projectQTM\\WebApplication_projectQTM.csproj|solutionrelative:webapplication_projectqtm\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2827232D-2274-4390-BF5A-9623799A0F2E}|WebApplication_projectQTM\\WebApplication_projectQTM.csproj|d:\\vs_code\\opp-bt\\bt1\\webapplication_projectqtm\\webapplication_projectqtm\\views\\members\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2827232D-2274-4390-BF5A-9623799A0F2E}|WebApplication_projectQTM\\WebApplication_projectQTM.csproj|solutionrelative:webapplication_projectqtm\\views\\members\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2827232D-2274-4390-BF5A-9623799A0F2E}|WebApplication_projectQTM\\WebApplication_projectQTM.csproj|d:\\vs_code\\opp-bt\\bt1\\webapplication_projectqtm\\webapplication_projectqtm\\controllers\\memberscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2827232D-2274-4390-BF5A-9623799A0F2E}|WebApplication_projectQTM\\WebApplication_projectQTM.csproj|solutionrelative:webapplication_projectqtm\\controllers\\memberscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2827232D-2274-4390-BF5A-9623799A0F2E}|WebApplication_projectQTM\\WebApplication_projectQTM.csproj|d:\\vs_code\\opp-bt\\bt1\\webapplication_projectqtm\\webapplication_projectqtm\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2827232D-2274-4390-BF5A-9623799A0F2E}|WebApplication_projectQTM\\WebApplication_projectQTM.csproj|solutionrelative:webapplication_projectqtm\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2827232D-2274-4390-BF5A-9623799A0F2E}|WebApplication_projectQTM\\WebApplication_projectQTM.csproj|d:\\vs_code\\opp-bt\\bt1\\webapplication_projectqtm\\webapplication_projectqtm\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2827232D-2274-4390-BF5A-9623799A0F2E}|WebApplication_projectQTM\\WebApplication_projectQTM.csproj|solutionrelative:webapplication_projectqtm\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2827232D-2274-4390-BF5A-9623799A0F2E}|WebApplication_projectQTM\\WebApplication_projectQTM.csproj|d:\\vs_code\\opp-bt\\bt1\\webapplication_projectqtm\\webapplication_projectqtm\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2827232D-2274-4390-BF5A-9623799A0F2E}|WebApplication_projectQTM\\WebApplication_projectQTM.csproj|solutionrelative:webapplication_projectqtm\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2827232D-2274-4390-BF5A-9623799A0F2E}|WebApplication_projectQTM\\WebApplication_projectQTM.csproj|d:\\vs_code\\opp-bt\\bt1\\webapplication_projectqtm\\webapplication_projectqtm\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2827232D-2274-4390-BF5A-9623799A0F2E}|WebApplication_projectQTM\\WebApplication_projectQTM.csproj|solutionrelative:webapplication_projectqtm\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2827232D-2274-4390-BF5A-9623799A0F2E}|WebApplication_projectQTM\\WebApplication_projectQTM.csproj|d:\\vs_code\\opp-bt\\bt1\\webapplication_projectqtm\\webapplication_projectqtm\\data\\migrations\\20241130153808_initialsetupazure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2827232D-2274-4390-BF5A-9623799A0F2E}|WebApplication_projectQTM\\WebApplication_projectQTM.csproj|solutionrelative:webapplication_projectqtm\\data\\migrations\\20241130153808_initialsetupazure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2827232D-2274-4390-BF5A-9623799A0F2E}|WebApplication_projectQTM\\WebApplication_projectQTM.csproj|d:\\vs_code\\opp-bt\\bt1\\webapplication_projectqtm\\webapplication_projectqtm\\models\\member.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2827232D-2274-4390-BF5A-9623799A0F2E}|WebApplication_projectQTM\\WebApplication_projectQTM.csproj|solutionrelative:webapplication_projectqtm\\models\\member.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2827232D-2274-4390-BF5A-9623799A0F2E}|WebApplication_projectQTM\\WebApplication_projectQTM.csproj|d:\\vs_code\\opp-bt\\bt1\\webapplication_projectqtm\\webapplication_projectqtm\\views\\members\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2827232D-2274-4390-BF5A-9623799A0F2E}|WebApplication_projectQTM\\WebApplication_projectQTM.csproj|solutionrelative:webapplication_projectqtm\\views\\members\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2827232D-2274-4390-BF5A-9623799A0F2E}|WebApplication_projectQTM\\WebApplication_projectQTM.csproj|d:\\vs_code\\opp-bt\\bt1\\webapplication_projectqtm\\webapplication_projectqtm\\views\\members\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2827232D-2274-4390-BF5A-9623799A0F2E}|WebApplication_projectQTM\\WebApplication_projectQTM.csproj|solutionrelative:webapplication_projectqtm\\views\\members\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2827232D-2274-4390-BF5A-9623799A0F2E}|WebApplication_projectQTM\\WebApplication_projectQTM.csproj|d:\\vs_code\\opp-bt\\bt1\\webapplication_projectqtm\\webapplication_projectqtm\\views\\members\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2827232D-2274-4390-BF5A-9623799A0F2E}|WebApplication_projectQTM\\WebApplication_projectQTM.csproj|solutionrelative:webapplication_projectqtm\\views\\members\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2827232D-2274-4390-BF5A-9623799A0F2E}|WebApplication_projectQTM\\WebApplication_projectQTM.csproj|d:\\vs_code\\opp-bt\\bt1\\webapplication_projectqtm\\webapplication_projectqtm\\views\\members\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2827232D-2274-4390-BF5A-9623799A0F2E}|WebApplication_projectQTM\\WebApplication_projectQTM.csproj|solutionrelative:webapplication_projectqtm\\views\\members\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2827232D-2274-4390-BF5A-9623799A0F2E}|WebApplication_projectQTM\\WebApplication_projectQTM.csproj|d:\\vs_code\\opp-bt\\bt1\\webapplication_projectqtm\\webapplication_projectqtm\\data\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2827232D-2274-4390-BF5A-9623799A0F2E}|WebApplication_projectQTM\\WebApplication_projectQTM.csproj|solutionrelative:webapplication_projectqtm\\data\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2827232D-2274-4390-BF5A-9623799A0F2E}|WebApplication_projectQTM\\WebApplication_projectQTM.csproj|d:\\vs_code\\opp-bt\\bt1\\webapplication_projectqtm\\webapplication_projectqtm\\data\\migrations\\00000000000000_createidentityschema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2827232D-2274-4390-BF5A-9623799A0F2E}|WebApplication_projectQTM\\WebApplication_projectQTM.csproj|solutionrelative:webapplication_projectqtm\\data\\migrations\\00000000000000_createidentityschema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2827232D-2274-4390-BF5A-9623799A0F2E}|WebApplication_projectQTM\\WebApplication_projectQTM.csproj|d:\\vs_code\\opp-bt\\bt1\\webapplication_projectqtm\\webapplication_projectqtm\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2827232D-2274-4390-BF5A-9623799A0F2E}|WebApplication_projectQTM\\WebApplication_projectQTM.csproj|solutionrelative:webapplication_projectqtm\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2827232D-2274-4390-BF5A-9623799A0F2E}|WebApplication_projectQTM\\WebApplication_projectQTM.csproj|d:\\vs_code\\opp-bt\\bt1\\webapplication_projectqtm\\webapplication_projectqtm\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2827232D-2274-4390-BF5A-9623799A0F2E}|WebApplication_projectQTM\\WebApplication_projectQTM.csproj|solutionrelative:webapplication_projectqtm\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\VS_CODE\\OPP-BT\\BT1\\WebApplication_projectQTM\\WebApplication_projectQTM\\Views\\Members\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebApplication_projectQTM\\Views\\Members\\Index.cshtml",
+              "ToolTip": "D:\\VS_CODE\\OPP-BT\\BT1\\WebApplication_projectQTM\\WebApplication_projectQTM\\Views\\Members\\Index.cshtml",
+              "RelativeToolTip": "WebApplication_projectQTM\\Views\\Members\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-30T04:45:13.566Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MembersController.cs",
+              "DocumentMoniker": "D:\\VS_CODE\\OPP-BT\\BT1\\WebApplication_projectQTM\\WebApplication_projectQTM\\Controllers\\MembersController.cs",
+              "RelativeDocumentMoniker": "WebApplication_projectQTM\\Controllers\\MembersController.cs",
+              "ToolTip": "D:\\VS_CODE\\OPP-BT\\BT1\\WebApplication_projectQTM\\WebApplication_projectQTM\\Controllers\\MembersController.cs",
+              "RelativeToolTip": "WebApplication_projectQTM\\Controllers\\MembersController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIEAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T05:36:53.4Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\VS_CODE\\OPP-BT\\BT1\\WebApplication_projectQTM\\WebApplication_projectQTM\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "WebApplication_projectQTM\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\VS_CODE\\OPP-BT\\BT1\\WebApplication_projectQTM\\WebApplication_projectQTM\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "WebApplication_projectQTM\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T16:03:11.88Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\VS_CODE\\OPP-BT\\BT1\\WebApplication_projectQTM\\WebApplication_projectQTM\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebApplication_projectQTM\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\VS_CODE\\OPP-BT\\BT1\\WebApplication_projectQTM\\WebApplication_projectQTM\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "WebApplication_projectQTM\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-22T16:04:04.968Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\VS_CODE\\OPP-BT\\BT1\\WebApplication_projectQTM\\WebApplication_projectQTM\\Program.cs",
+              "RelativeDocumentMoniker": "WebApplication_projectQTM\\Program.cs",
+              "ToolTip": "D:\\VS_CODE\\OPP-BT\\BT1\\WebApplication_projectQTM\\WebApplication_projectQTM\\Program.cs",
+              "RelativeToolTip": "WebApplication_projectQTM\\Program.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAmwCoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T08:16:10.247Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\VS_CODE\\OPP-BT\\BT1\\WebApplication_projectQTM\\WebApplication_projectQTM\\Views\\Members\\Delete.cshtml",
+              "RelativeDocumentMoniker": "WebApplication_projectQTM\\Views\\Members\\Delete.cshtml",
+              "ToolTip": "D:\\VS_CODE\\OPP-BT\\BT1\\WebApplication_projectQTM\\WebApplication_projectQTM\\Views\\Members\\Delete.cshtml",
+              "RelativeToolTip": "WebApplication_projectQTM\\Views\\Members\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-30T04:45:13.183Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\VS_CODE\\OPP-BT\\BT1\\WebApplication_projectQTM\\WebApplication_projectQTM\\Views\\Members\\Create.cshtml",
+              "RelativeDocumentMoniker": "WebApplication_projectQTM\\Views\\Members\\Create.cshtml",
+              "ToolTip": "D:\\VS_CODE\\OPP-BT\\BT1\\WebApplication_projectQTM\\WebApplication_projectQTM\\Views\\Members\\Create.cshtml",
+              "RelativeToolTip": "WebApplication_projectQTM\\Views\\Members\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-30T04:45:10.724Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\VS_CODE\\OPP-BT\\BT1\\WebApplication_projectQTM\\WebApplication_projectQTM\\appsettings.json",
+              "RelativeDocumentMoniker": "WebApplication_projectQTM\\appsettings.json",
+              "ToolTip": "D:\\VS_CODE\\OPP-BT\\BT1\\WebApplication_projectQTM\\WebApplication_projectQTM\\appsettings.json",
+              "RelativeToolTip": "WebApplication_projectQTM\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-29T16:48:41.328Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "20241130153808_initialsetupAzure.cs",
+              "DocumentMoniker": "D:\\VS_CODE\\OPP-BT\\BT1\\WebApplication_projectQTM\\WebApplication_projectQTM\\Data\\Migrations\\20241130153808_initialsetupAzure.cs",
+              "RelativeDocumentMoniker": "WebApplication_projectQTM\\Data\\Migrations\\20241130153808_initialsetupAzure.cs",
+              "ToolTip": "D:\\VS_CODE\\OPP-BT\\BT1\\WebApplication_projectQTM\\WebApplication_projectQTM\\Data\\Migrations\\20241130153808_initialsetupAzure.cs",
+              "RelativeToolTip": "WebApplication_projectQTM\\Data\\Migrations\\20241130153808_initialsetupAzure.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T15:38:09.333Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\VS_CODE\\OPP-BT\\BT1\\WebApplication_projectQTM\\WebApplication_projectQTM\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "WebApplication_projectQTM\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\VS_CODE\\OPP-BT\\BT1\\WebApplication_projectQTM\\WebApplication_projectQTM\\Properties\\launchSettings.json",
+              "RelativeToolTip": "WebApplication_projectQTM\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABQAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-01T03:17:25.112Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ApplicationDbContextModelSnapshot.cs",
+              "DocumentMoniker": "D:\\VS_CODE\\OPP-BT\\BT1\\WebApplication_projectQTM\\WebApplication_projectQTM\\Data\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "WebApplication_projectQTM\\Data\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ToolTip": "D:\\VS_CODE\\OPP-BT\\BT1\\WebApplication_projectQTM\\WebApplication_projectQTM\\Data\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeToolTip": "WebApplication_projectQTM\\Data\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T03:01:52.491Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Member.cs",
+              "DocumentMoniker": "D:\\VS_CODE\\OPP-BT\\BT1\\WebApplication_projectQTM\\WebApplication_projectQTM\\Models\\Member.cs",
+              "RelativeDocumentMoniker": "WebApplication_projectQTM\\Models\\Member.cs",
+              "ToolTip": "D:\\VS_CODE\\OPP-BT\\BT1\\WebApplication_projectQTM\\WebApplication_projectQTM\\Models\\Member.cs",
+              "RelativeToolTip": "WebApplication_projectQTM\\Models\\Member.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T05:19:47.411Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\VS_CODE\\OPP-BT\\BT1\\WebApplication_projectQTM\\WebApplication_projectQTM\\Views\\Members\\Details.cshtml",
+              "RelativeDocumentMoniker": "WebApplication_projectQTM\\Views\\Members\\Details.cshtml",
+              "ToolTip": "D:\\VS_CODE\\OPP-BT\\BT1\\WebApplication_projectQTM\\WebApplication_projectQTM\\Views\\Members\\Details.cshtml",
+              "RelativeToolTip": "WebApplication_projectQTM\\Views\\Members\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-30T04:45:13.306Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\VS_CODE\\OPP-BT\\BT1\\WebApplication_projectQTM\\WebApplication_projectQTM\\Views\\Members\\Edit.cshtml",
+              "RelativeDocumentMoniker": "WebApplication_projectQTM\\Views\\Members\\Edit.cshtml",
+              "ToolTip": "D:\\VS_CODE\\OPP-BT\\BT1\\WebApplication_projectQTM\\WebApplication_projectQTM\\Views\\Members\\Edit.cshtml",
+              "RelativeToolTip": "WebApplication_projectQTM\\Views\\Members\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-30T04:45:13.416Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "00000000000000_CreateIdentitySchema.cs",
+              "DocumentMoniker": "D:\\VS_CODE\\OPP-BT\\BT1\\WebApplication_projectQTM\\WebApplication_projectQTM\\Data\\Migrations\\00000000000000_CreateIdentitySchema.cs",
+              "RelativeDocumentMoniker": "WebApplication_projectQTM\\Data\\Migrations\\00000000000000_CreateIdentitySchema.cs",
+              "ToolTip": "D:\\VS_CODE\\OPP-BT\\BT1\\WebApplication_projectQTM\\WebApplication_projectQTM\\Data\\Migrations\\00000000000000_CreateIdentitySchema.cs",
+              "RelativeToolTip": "WebApplication_projectQTM\\Data\\Migrations\\00000000000000_CreateIdentitySchema.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T03:01:50.432Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\VS_CODE\\OPP-BT\\BT1\\WebApplication_projectQTM\\WebApplication_projectQTM\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "WebApplication_projectQTM\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\VS_CODE\\OPP-BT\\BT1\\WebApplication_projectQTM\\WebApplication_projectQTM\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "WebApplication_projectQTM\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAB8AAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-29T14:55:40.245Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "D:\\VS_CODE\\OPP-BT\\BT1\\WebApplication_projectQTM\\WebApplication_projectQTM\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "WebApplication_projectQTM\\Views\\_ViewStart.cshtml",
+              "ToolTip": "D:\\VS_CODE\\OPP-BT\\BT1\\WebApplication_projectQTM\\WebApplication_projectQTM\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "WebApplication_projectQTM\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-26T14:07:14.39Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
